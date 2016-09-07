@@ -1,0 +1,1 @@
+../../../SwiftlySalesforce/Pod/Classes/SwiftlySalesforce.h

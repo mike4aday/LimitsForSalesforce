@@ -1,0 +1,83 @@
+{
+	"totalSize" : 6,
+	"done" : true,
+	"records" : [ {
+				 "attributes" : {
+				 "type" : "Site",
+				 "url" : "/services/data/v37.0/sobjects/Site/0DM610000008rHwGAI"
+				 },
+				 "Name" : "My_Site",
+				 "DailyBandwidthLimit" : 40960,
+				 "DailyBandwidthUsed" : 31206.3,
+				 "DailyRequestTimeLimit" : 3600,
+				 "DailyRequestTimeUsed" : 1011.3545654,
+				 "Description" : null,
+				 "MasterLabel" : "My Force.com Site",
+				 "Status" : "Active"
+				 }, {
+				 "attributes" : {
+				 "type" : "Site",
+				 "url" : "/services/data/v37.0/sobjects/Site/0DM61000000Kzq9GAC"
+				 },
+				 "Name" : "Partner_Comm",
+				 "DailyBandwidthLimit" : 40960,
+				 "DailyBandwidthUsed" : 303.7,
+				 "DailyRequestTimeLimit" : 3600,
+				 "DailyRequestTimeUsed" : 1773.369985,
+				 "Description" : null,
+				 "MasterLabel" : "Partner Community",
+				 "Status" : "Active"
+				 }, {
+				 "attributes" : {
+				 "type" : "Site",
+				 "url" : "/services/data/v37.0/sobjects/Site/0DM61000000Kzq8GAC"
+				 },
+				 "Name" : "Customer_Comm",
+				 "DailyBandwidthLimit" : 40960,
+				 "DailyBandwidthUsed" : 5.9,
+				 "DailyRequestTimeLimit" : 3600,
+				 "DailyRequestTimeUsed" : 503.6,
+				 "Description" : null,
+				 "MasterLabel" : "Customer Community",
+				 "Status" : "Active"
+				 }, {
+				 "attributes" : {
+				 "type" : "Site",
+				 "url" : "/services/data/v37.0/sobjects/Site/0DM610000008rMnGAI"
+				 },
+				 "Name" : "My_Site_2",
+				 "DailyBandwidthLimit" : 40960,
+				 "DailyBandwidthUsed" : 0.0,
+				 "DailyRequestTimeLimit" : 3600,
+				 "DailyRequestTimeUsed" : 0.0,
+				 "Description" : null,
+				 "MasterLabel" : "My Site #2",
+				 "Status" : "Active"
+				 }, {
+				 "attributes" : {
+				 "type" : "Site",
+				 "url" : "/services/data/v37.0/sobjects/Site/0DM61000000KzqDGAS"
+				 },
+				 "Name" : "Partners_2",
+				 "DailyBandwidthLimit" : 40960,
+				 "DailyBandwidthUsed" : 0.0,
+				 "DailyRequestTimeLimit" : 3600,
+				 "DailyRequestTimeUsed" : 0.0,
+				 "Description" : null,
+				 "MasterLabel" : "Partners 2",
+				 "Status" : "Active"
+				 }, {
+				 "attributes" : {
+				 "type" : "Site",
+				 "url" : "/services/data/v37.0/sobjects/Site/0DM61000000KzqEGAS"
+				 },
+				 "Name" : "Partners_21",
+				 "DailyBandwidthLimit" : 40960,
+				 "DailyBandwidthUsed" : 0.0,
+				 "DailyRequestTimeLimit" : 3600,
+				 "DailyRequestTimeUsed" : 0.0,
+				 "Description" : null,
+				 "MasterLabel" : "Partners 2",
+				 "Status" : "Active"
+				 } ]
+}

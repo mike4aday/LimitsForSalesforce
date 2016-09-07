@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>ConcurrentSyncReportRuns</string>
+		<key>label</key>
+		<string>Concurrent Synchronous Report Runs</string>
+		<key>description</key>
+		<string>Concurrent synchronous report runs via the REST API</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ConcurrentAsyncGetReportInstances</string>
+		<key>label</key>
+		<string>Concurrent Asynchronous Report Runs</string>
+		<key>description</key>
+		<string>Concurrent REST API requests for the results of asynchronous report runs</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyApiRequests</string>
+		<key>label</key>
+		<string>Daily API Requests</string>
+		<key>description</key>
+		<string>Daily calls to Salesforce APIs</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyAsyncApexExecutions</string>
+		<key>label</key>
+		<string>Daily Asynchronous Apex Executions</string>
+		<key>description</key>
+		<string>Number of daily batch Apex and future method executions</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyBulkApiRequests</string>
+		<key>label</key>
+		<string>Daily Bulk API Requests</string>
+		<key>description</key>
+		<string>Number of daily Bulk API calls</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyGenericStreamingApiEvents</string>
+		<key>label</key>
+		<string>Daily Generic Streaming API Events</string>
+		<key>description</key>
+		<string>Number of daily generic streaming API events</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyGenericStreamingV2ApiEvents</string>
+		<key>label</key>
+		<string>Daily Durable Generic Streaming API Events</string>
+		<key>description</key>
+		<string>Number of daily durable generic streaming API events</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyDurableGenericStreamingApiEvents</string>
+		<key>label</key>
+		<string>Daily Durable Generic Streaming API Events</string>
+		<key>description</key>
+		<string>Number of daily durable generic streaming API events</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyDurableStreamingApiEvents</string>
+		<key>label</key>
+		<string>Daily Durable Streaming API Events</string>
+		<key>description</key>
+		<string>Number of daily durable streaming API events</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyStreamingApiEvents</string>
+		<key>label</key>
+		<string>Daily Streaming API Events</string>
+		<key>description</key>
+		<string>Number of daily streaming API events</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyWorkflowEmails</string>
+		<key>label</key>
+		<string>Daily Workflow Emails</string>
+		<key>description</key>
+		<string>Number of daily workflow emails</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DataStorageMB</string>
+		<key>label</key>
+		<string>Data Storage</string>
+		<key>description</key>
+		<string>Data storage, in megabytes</string>
+		<key>units</key>
+		<string>MB</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>FileStorageMB</string>
+		<key>label</key>
+		<string>File Storage</string>
+		<key>description</key>
+		<string>File storage, in megabytes</string>
+		<key>units</key>
+		<string>MB</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HourlyAsyncReportRuns</string>
+		<key>label</key>
+		<string>Hourly Asynchronous Report Runs</string>
+		<key>description</key>
+		<string>Hourly asynchronous report runs via the REST API</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HourlyDashboardRefreshes</string>
+		<key>label</key>
+		<string>Hourly Dashboard Refreshes</string>
+		<key>description</key>
+		<string>Hourly dashboard refreshes via the REST API</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HourlyDashboardResults</string>
+		<key>label</key>
+		<string>Hourly Dashboard Results</string>
+		<key>description</key>
+		<string>Hourly REST API requests for dashboard results</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HourlyDashboardStatuses</string>
+		<key>label</key>
+		<string>Hourly Dashboard Status Requests</string>
+		<key>description</key>
+		<string>Hourly dashboard status requests via the REST API</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HourlyODataCallout</string>
+		<key>label</key>
+		<string>Hourly OData Callouts</string>
+		<key>description</key>
+		<string>Number of hourly OData callouts</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HourlySyncReportRuns</string>
+		<key>label</key>
+		<string>Hourly Synchronous Report Runs</string>
+		<key>description</key>
+		<string>Number of hourly synchronous report runs via the REST API</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>HourlyTimeBasedWorkflow</string>
+		<key>label</key>
+		<string>Hourly Time-Based Workflow</string>
+		<key>description</key>
+		<string>Number of hourly workflow time triggers</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MassEmail</string>
+		<key>label</key>
+		<string>Mass Emails</string>
+		<key>description</key>
+		<string>Daily number of mass emails, sent to external email addresses, by using Apex or Salesforce APIs</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>SingleEmail</string>
+		<key>label</key>
+		<string>Single Emails</string>
+		<key>description</key>
+		<string>Daily number of single emails, sent to external email addresses, by using Apex or Salesforce APIs</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>StreamingApiConcurrentClients</string>
+		<key>label</key>
+		<string>Concurrent Streaming API Clients</string>
+		<key>description</key>
+		<string>Number of concurrent streaming API clients</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>StreamingV2ApiConcurrentClients</string>
+		<key>label</key>
+		<string>Concurrent Durable Streaming API Clients</string>
+		<key>description</key>
+		<string>Number of concurrent, durable streaming API clients</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DurableStreamingApiConcurrentClients</string>
+		<key>label</key>
+		<string>Concurrent Durable Streaming API Clients</string>
+		<key>description</key>
+		<string>Number of concurrent, durable streaming API clients</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyBandwidthLimit</string>
+		<key>label</key>
+		<string>Daily Bandwidth Limit</string>
+		<key>description</key>
+		<string>Rolling 24-hour daily bandwidth limit for the Sites in your organization</string>
+		<key>units</key>
+		<string>MB</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>DailyRequestTimeLimit</string>
+		<key>label</key>
+		<string>Daily Request Time Limit</string>
+		<key>description</key>
+		<string>Rolling 24-hour daily service request time limit for the Sites in your organization</string>
+		<key>units</key>
+		<string>mins.</string>
+	</dict>
+</array>
+</plist>

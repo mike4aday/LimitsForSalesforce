@@ -1,0 +1,94 @@
+{
+	"ConcurrentAsyncGetReportInstances" : {
+		"Max" : 200,
+		"Remaining" : 187
+	},
+	"ConcurrentSyncReportRuns" : {
+		"Max" : 100,
+		"Remaining" : 31
+	},
+	"DailyApiRequests" : {
+		"Max" : 25000,
+		"Remaining" : 19795
+	},
+	"DailyAsyncApexExecutions" : {
+		"Max" : 250000,
+		"Remaining" : 202523
+	},
+	"DailyBulkApiRequests" : {
+		"Max" : 5000,
+		"Remaining" : 4085
+	},
+	"DailyDurableGenericStreamingApiEvents" : {
+		"Max" : 10000,
+		"Remaining" : 6157
+	},
+	"DailyDurableStreamingApiEvents" : {
+		"Max" : 10000,
+		"Remaining" : 9807
+	},
+	"DailyGenericStreamingApiEvents" : {
+		"Max" : 10000,
+		"Remaining" : 8026
+	},
+	"DailyStreamingApiEvents" : {
+		"Max" : 20000,
+		"Remaining" : 19557
+	},
+	"DailyWorkflowEmails" : {
+		"Max" : 2130,
+		"Remaining" : 1015
+	},
+	"DataStorageMB" : {
+		"Max" : 1073,
+		"Remaining" : 405
+	},
+	"DurableStreamingApiConcurrentClients" : {
+		"Max" : 1000,
+		"Remaining" : 651
+	},
+	"FileStorageMB" : {
+		"Max" : 10240,
+		"Remaining" : 2856
+	},
+	"HourlyAsyncReportRuns" : {
+		"Max" : 1200,
+		"Remaining" : 1095
+	},
+	"HourlyDashboardRefreshes" : {
+		"Max" : 200,
+		"Remaining" : 98
+	},
+	"HourlyDashboardResults" : {
+		"Max" : 5000,
+		"Remaining" : 3037
+	},
+	"HourlyDashboardStatuses" : {
+		"Max" : 10000000,
+		"Remaining" : 3601622
+	},
+	"HourlyODataCallout" : {
+		"Max" : 20000,
+		"Remaining" : 18898
+	},
+	"HourlySyncReportRuns" : {
+		"Max" : 500,
+		"Remaining" : 27
+	},
+	"HourlyTimeBasedWorkflow" : {
+		"Max" : 50,
+		"Remaining" : 32
+	},
+	"MassEmail" : {
+		"Max" : 1000,
+		"Remaining" : 684
+	},
+	"SingleEmail" : {
+		"Max" : 1000,
+		"Remaining" : 422
+	},
+	"StreamingApiConcurrentClients" : {
+		"Max" : 1000,
+		"Remaining" : 998
+	}
+}
