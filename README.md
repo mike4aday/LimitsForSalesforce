@@ -5,7 +5,7 @@
 Displays real-time information about limits in your Salesforce org. ~~Free on the Apple AppStore~~ (Removed from AppStore. Install Salesforce's enhanced version instead; see above).
 Built with [Swiftly Salesforce](https://github.com/mike4aday/swiftlysalesforce).
 
-Limits for Salesforce has passed the Salesforce [security review](https://developer.salesforce.com/page/Security_Review), and you can install the optional [Salesforce Connected App](https://developer.salesforce.com/page/Connected_Apps) from the ~~[AppExchange]~~(https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000E8VDQUA3)
+Limits for Salesforce has passed the Salesforce [security review](https://developer.salesforce.com/page/Security_Review), and you can install the optional [Salesforce Connected App](https://developer.salesforce.com/page/Connected_Apps) from the [AppExchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000E8VDQUA3)
 
 <!--[![Download on the App Store](https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg)](https://itunes.apple.com/us/app/limits-for-salesforce/id1097448006?mt=8)-->
 
