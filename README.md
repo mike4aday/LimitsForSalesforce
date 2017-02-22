@@ -1,4 +1,7 @@
 # Limits For Salesforce
+
+**Note**: a new, enhanced version of this app is available from Salesforce at: https://itunes.apple.com/us/app/limits-monitor/id1169185218
+
 Displays real-time information about limits in your Salesforce org. Free on the Apple AppStore.
 Built with [Swiftly Salesforce](https://github.com/mike4aday/swiftlysalesforce).
 
